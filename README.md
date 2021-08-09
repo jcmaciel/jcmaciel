@@ -14,7 +14,7 @@ Passionate about technology and Software as a Service (SaaS) enthusiast 🚀
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jcmaciel)](https://github.com/jcmaciel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/macieljc/)](https://www.linkedin.com/in/macieljc/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998764676&text=Hey Jose!)](https://api.whatsapp.com/send?phone=5522998764676&text=Hey Jose!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998764676&text=Hey!)](https://api.whatsapp.com/send?phone=5522998764676&text=Hey!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcmacielp@gmail.com)](mailto:jcmacielp@gmail.com)
 
 
